@@ -1,0 +1,7 @@
+[
+  {"id":1, "title":"top_seller", "sub":"인기게임" },
+  {"id":2, "title":"new_trending", "sub":"신규 및 인기 게임" },
+  {"id":3, "title":"curentspecials", "sub":"할인 중인 게임" },
+  {"id":4, "title":"recently_update", "sub":"최근 업데이트 게임" },
+  {"id":5, "title":"popular_upcoming", "sub":"출시 예정 게임" }
+]

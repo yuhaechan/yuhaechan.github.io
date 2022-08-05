@@ -1,0 +1,5 @@
+[
+  {"id":1, "title":"new_noteworthy", "sub":"신규 및 특집"},
+  {"id":2, "title":"chose_user", "sub":"유저가 선택한 게임"},
+  {"id":3, "title":"categories", "sub":"카테고리"}
+]
